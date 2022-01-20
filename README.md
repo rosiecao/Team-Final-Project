@@ -1,4 +1,4 @@
-# Attractive San Francisco Neighborhoods to Live
+# Attractive San Francisco Neighborhoods to Live: A Neighborhood Vetting Tool
 
 This project was carried out in Google Colab. To see the main colab project can be found here: https://colab.research.google.com/drive/18D8ezvcDb_bN8qLVzuNidVdGhZhk-hM_?usp=sharing
 
