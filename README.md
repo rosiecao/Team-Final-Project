@@ -4,7 +4,7 @@ This project was carried out in Google Colab. To see the main colab project can 
 
 ## Purpose of this final project
 
-* write purpose of final project here
+* Purpose of this final project is to apply foundational skills learned during this certificate program.
 
 ## About the Team
 
@@ -67,6 +67,8 @@ Any additional information on datasets, including assessing the raw datasets can
 * Can complete this by training multiple unsupervised machine learning models (Shamir POA)
 
 ## Current Status of Project
-In the processes of finalizing data exploration and preparing data to be implemented into SQLite Database. 
-Machine learning model being mapped out in terms of what fields will be used to drive the ML model and what the conclusion of the ML model will be.
+All dataframes have been cleaned and placed into the SQLite database. A few more queries need to be carried out on the database.
+Machine learning model being tested with final dataframe of fully merged data.
 Tableau is going to be used for visualization, a deck of what the storyline will look like is being worked on.
+
+Road Blocks: the final dataframe that is going to be used for visualization needs the dataframe exporting to a GEOJson file -- still haven't found a way to properly do this.
