@@ -69,7 +69,7 @@ Using a supervised machine learning model, we will train and test our model to e
 ### Goal: 
 
 Using our crime severity scores our model will determine if crime severity has a correlation with our data representing living condition features. We determined living conditions based on community resilience scores (employment, population, and transportation scores) and affordability (average total assessed value).
-Separate low crime area ( average incident score less than 1.5) and high crime areas (average incident score higher than 2)
+
 
 ### Results: 
 
