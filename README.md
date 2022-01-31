@@ -62,9 +62,18 @@ Any additional information on datasets, including assessing the raw datasets can
 
 ## Machine Learning Model
 
-*Maybe we can look at doing a model that predicts the best houses to buy, based on cost, size, low crime, and low flooding risk? Or something along those lines?
+### Overview: 
 
-* Can complete this by training multiple unsupervised machine learning models (Shamir POA)
+Using a supervised machine learning model, we will train and test our model to examine and identify if certain living conditions have a correlation with our crime severity scores. 
+
+### Goal: 
+
+Using our crime severity scores our model will determine if crime severity has a correlation with our data representing living condition features. We determined living conditions based on community resilience scores (employment, population, and transportation scores) and affordability (average total assessed value).
+Separate low crime area ( average incident score less than 1.5) and high crime areas (average incident score higher than 2)
+
+### Results: 
+
+An outlook on how much effect each variable for living conditions has in relation to crime incident severity.  
 
 ## Current Status of Project
 All dataframes have been cleaned and placed into the SQLite database. A few more queries need to be carried out on the database.
