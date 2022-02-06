@@ -2,6 +2,8 @@
 
 This project was carried out in Google Colab. To see the main colab project can be found here: https://colab.research.google.com/drive/18D8ezvcDb_bN8qLVzuNidVdGhZhk-hM_?usp=sharing
 
+The final presentation for this analysis can be found here: https://docs.google.com/presentation/d/1VU8Di3eCk6gW7LEZl7ZpK9SiHv7EI0_5f-Qbzv_WS68/edit?usp=sharing
+
 # Introduction to Final Project 
 
 ## Purpose of this final project
